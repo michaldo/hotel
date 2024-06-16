@@ -1,4 +1,4 @@
-package org.example.hotel.application;
+package org.example.hotel.domain;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
